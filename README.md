@@ -25,7 +25,9 @@ Extract and transform the Kaggle metadata and MovieLens rating data and convert 
 Add the movies_df DataFrame and MovieLens rating CSV data to a SQL database.
 
 Movie tabe has 6,052 rows:
+
 ![movies_query.PNG](Resources/movies_query.PNG)
 
 Ratings table has 26,024,289 rows:
+
 ![ratings_query.PNG](Resources/ratings_query.PNG)
